@@ -9,7 +9,7 @@ SDG-Ebenezer/SDG-Ebenezer is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 </p>
 
-<h1 style="font-family:Trebuchet, Helvetica, Arial, sans serif;">About me:<h1>
+<p style="font-family:Trebuchet, Helvetica, Arial, sans serif;">About me:<p>
   <p style="font-size:"16px;">I am a soldier of God under His mission! ⚔️
     <br>
     Three words from Latin describe my goal:
