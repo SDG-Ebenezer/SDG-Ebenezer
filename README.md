@@ -1,4 +1,3 @@
-<!doctype html>
 <p>- 👋 Hi, I’m @SDG-Ebenezer</p>
 <p>- 👀 I’m interested in ...</p>
 <p>- 🌱 I’m currently learning C-Code</p>
@@ -17,4 +16,4 @@ You can click the Preview link to take a look at your changes.
     <br>
     <b>S</b>oli <b>D</b>eo <b>G</b>loria (SDG).
   </p>
- </html>
+
