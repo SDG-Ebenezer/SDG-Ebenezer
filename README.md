@@ -15,6 +15,8 @@ You can click the Preview link to take a look at your changes.
     <br>
     Three words from Latin describe my goal:
     <br>
-    <b>S</b>oli <b>D</b>eo <b>G</b>loria (SDG).
+                                                                                <b>S</b>oli <b>D</b>eo <b>G</b>loria (<b>SDG</b>).
+                                                                                <hr>
+                                                                                <b>SDG</b> means "<i>All glory be to God alone</i>!"
   </p>
 
